@@ -1,0 +1,6 @@
+{
+  "name": "Kanso Desktop",
+  "description": "An interactive animated macOS-inspired desktop hero experience with draggable glass windows, nested folders, working apps, and parabolic dock physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
